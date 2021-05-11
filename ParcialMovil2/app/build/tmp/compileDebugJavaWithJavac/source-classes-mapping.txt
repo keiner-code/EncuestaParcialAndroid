@@ -1,0 +1,17 @@
+com/example/parcialmovil2/BuildConfig.java
+ com.example.parcialmovil2.BuildConfig
+com/example/parcialmovil2/AdminSQLiteOpenHelper.java
+ com.example.parcialmovil2.AdminSQLiteOpenHelper
+com/example/parcialmovil2/DatosUsers.java
+ com.example.parcialmovil2.DatosUsers
+com/example/parcialmovil2/Main.java
+ com.example.parcialmovil2.Main
+ com.example.parcialmovil2.Main$1
+ com.example.parcialmovil2.Main$2
+com/example/parcialmovil2/SobreNosotros.java
+ com.example.parcialmovil2.SobreNosotros
+com/example/parcialmovil2/ListarEncuesta.java
+ com.example.parcialmovil2.ListarEncuesta
+com/example/parcialmovil2/MainActivity.java
+ com.example.parcialmovil2.MainActivity
+ com.example.parcialmovil2.MainActivity$1
